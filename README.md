@@ -1,4 +1,4 @@
-Deloitte_March_Data_Crunch_Madness
+###Deloitte March Data Crunch Madness
 
 Team name: Orange
 
@@ -10,6 +10,11 @@ The National Collegiate Athletic Association (NCAA) Men's Basketball Tournament 
 
 Highlights of Our Project
 
-One of the highlights of our project is the new variables, including EFG-OEFG, TPP-DTPP, SRS, SOS, Adj_win and the most important one Coach Influence. Another one is our project's philosophy, let the machine learning algorithm decide variables and models. We try to make all procedures rational and scientific.
+One of the highlights of our project is the new variables, EFG-OEFG, TPP-DTPP, SRS, SOS, Adj_win and the most important one- Coach Influence. Another one is our project's philosophy, let the machine learning algorithm decide variables and models. We try to make all procedures rational and scientific.
 
-The final report is added in the repository.
+Flow Chart
+
+
+
+
+
